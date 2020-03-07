@@ -1,0 +1,17 @@
+{
+  "name": "dev-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron-starter.js",
+  "dependencies": {
+    "electron": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "electron .",
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
